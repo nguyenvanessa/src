@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-#from matplotlib.colors import DivergingNorm
+from matplotlib.colors import DivergingNorm
 
 __aa_seq__ = ("LRLEVKLGQGCFGEVWMGTWNGTTRVAIKTLKPGTMSPEAFLQEAQVMKKLRHEKLVQLYAVVSEEPIYIVTEYMSKGSLLDFLKGETGKYLRLPQLVDMAAQIASGMAYVERMNYVHRDLRAANILVGENLVCKVADFGLARLIEDNEYTARQGAKFPIKWTAPEAALYGRFTIKSDVWSFGILLTELTTKGRVPYPGMVNREVLDQVERGYRMPCPPECPESLHDLMCQCWRKEPEERPTFEYLQAFL")
 __cd_pos__ = np.arange(270, 520)
@@ -120,7 +120,7 @@ def plot_heatmap(heatmap, title):
 
     """
     fig, ax = plt.subplots(figsize=(50,300))
-    # resid_map = plt.imshow(heatmap.T, cmap='bwr', norm=DivergingNorm(0.0))
+    resid_map = plt.imshow(heatmap.T, cmap='bwr', norm=DivergingNorm(0.0))
 
     # Set tick locations
     ax.set_yticks(np.arange(heatmap.shape[1]))
