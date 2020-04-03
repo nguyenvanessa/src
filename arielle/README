@@ -2,4 +2,6 @@ Created heatmapDF.csv in jupyter notebook from raw hdf5 file
 Created ggplot heaptmaps and residual plots in R using heatmaps.csv (5189 rows)
 Recreated plots after conversion to a -1 to +1 scale for this dataframe
 
-Working on reconstructing rescaled residuals, heatmaps using master csv file, point_muts (3501 rows) 
+Re-formatted point_muts.csv for convenience in R
+
+Created SASA scores dataframe to be combined with copy of point_muts
