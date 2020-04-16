@@ -7,7 +7,7 @@ pymol.finish_launching()
 cmd.set('dot_solvent', 1)
 cmd.set('dot_density', 4)
 
-cmd.load('2src_kinDom.pdb')  # use the name of your pdb file
+cmd.load('../pdbs/2src_human_numbering.pdb')  # use the name of your pdb file
 stored.residues = []
 cmd.iterate('name ca', 'stored.residues.append(resi)')
 
