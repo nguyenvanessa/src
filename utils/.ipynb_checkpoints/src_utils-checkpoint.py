@@ -129,6 +129,7 @@ def plot_heatmap(heatmap, title):
     # Set tick labels
     ax.set_yticklabels(__aa_idx_dict__.keys())
     ax.set_xticklabels(__pos_idx_dict__.keys())
+    plt.xticks(rotation='vertical')
     
     # Set title
     plt.title(title)
