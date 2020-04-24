@@ -1,6 +1,6 @@
 conservation analysis
 
-Evolutionary conservation slightly higher for mutated positions in dependent hsp90 clients than independent hsp90 clients
+Evolutionary conservation slightly higher for mutated positions in hsp90 dependent clients than hsp90 inhibited clients
 
 Residual scores are more negative for c-terminal catalytic domain positions, 
 indicating that mutating c-terminal residues in the catalytic domain promotes  hsp90 dependency 
