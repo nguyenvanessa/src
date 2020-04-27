@@ -6,5 +6,5 @@ Residual scores are more negative for c-terminal catalytic domain positions,
 indicating that mutating c-terminal residues in the catalytic domain promotes  hsp90 dependency 
 
 Residual scores are very positive for n-terminal of catalytic domain positions,
-indicating that mutating c-terminal residues in the catalytic domain causes c-src to become hsp90 inhibited. 
+indicating that mutating n-terminal residues in the catalytic domain causes c-src to become hsp90 inhibited. 
 
