@@ -1,0 +1,11 @@
+hide lines;
+show cartoon;
+set ray_trace_mode, 0;
+bg_color white;
+set antialias, 2;
+remove resn HOH;
+remove resn HET;
+set cartoon_highlight_color, grey50;
+set cartoon_fancy_helices, on;
+set cartoon_fancy_sheets, on;
+cartoon automatic;
