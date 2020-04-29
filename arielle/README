@@ -1,7 +1,10 @@
-Created heatmapDF.csv in jupyter notebook from raw hdf5 file 
-Created ggplot heaptmaps and residual plots in R using heatmaps.csv (5189 rows)
-Recreated plots after conversion to a -1 to +1 scale for this dataframe
+conservation analysis
 
-Re-formatted point_muts.csv for convenience in R
+Evolutionary conservation slightly higher for mutated positions in hsp90 dependent clients than hsp90 inhibited clients
 
-Created SASA scores dataframe to be combined with copy of point_muts
+Residual scores are more negative for c-terminal catalytic domain positions, 
+indicating that mutating c-terminal residues in the catalytic domain promotes  hsp90 dependency 
+
+Residual scores are very positive for n-terminal of catalytic domain positions,
+indicating that mutating n-terminal residues in the catalytic domain causes c-src to become hsp90 inhibited. 
+
