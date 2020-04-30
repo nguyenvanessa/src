@@ -19,10 +19,10 @@ library(dplyr)
 ##                          read data                          ##
 #################################################################
 
-strongclients <- read.csv("strongclients.csv")
-clients <- read.csv("clients.csv")
-weakclients<- read.csv("weakclients.csv")
-nonclients <- read.csv("nonclients") 
+strongclients <- read.csv("data/strongclients.csv")
+clients <- read.csv("data/clients.csv")
+weakclients<- read.csv("data/weakclients.csv")
+nonclients <- read.csv("data/nonclients") 
 
 
 ##################################################################
@@ -57,8 +57,8 @@ colnames(working)[8] <- "client_status"
 #################################################################
 ##                            plots                            ##
 #################################################################
-levels(working$client_status)
 working$client_status <- as.factor(working$client_status)
+levels(working$client_status)
 
 working$client_status <- 
   factor(working$client_status, 
@@ -76,10 +76,28 @@ ggplot(working, aes(x=conservation, y=residual, color=client_status)) +
   scale_color_manual(values = c("red", "orange", "green",
                                 "black","blue","purple","hotpink"))
 
-ggplot(working, aes(x=position, y=residual, color=client_status)) +
-  geom_point() + ggtitle("client status visualzation 2.1") +
-  scale_color_manual(values = c("red", "orange", "green",
-                                "black","blue","purple","hotpink"))
+rp<-ggplot(filter(working, client_status!="nonclient"),
+            aes(x=position, y=residual, color=client_status)) +
+  geom_point() + ggtitle("client status by position") +
+  scale_color_manual(values = c("red", "orange", "yellow",
+                               "blue","purple","hotpink"))
+rp
+cp<-ggplot(
+    filter(working, client_status!="nonclient"), 
+      aes(x=position, y=conservation, color=client_status)) +
+  geom_point() + ggtitle("conservation by position") +
+  scale_color_manual(values = c("red", "orange", "yellow",
+                                "blue","purple","hotpink"))
+cp
+
+cr <- ggplot(
+  filter(working, client_status!="nonclient"), 
+  aes(x=conservation, y=residual, color=client_status)) +
+  geom_point() + ggtitle("client status conservation") +
+  scale_color_manual(values = c("red", "orange", "yellow",
+                                "blue","purple","hotpink"))
+cr
+grid.arrange(rp,cr, nrow=1)
 
 ggplot(working, aes(x=position, y=conservation, color=structure)) +
   geom_point(alpha=.4)  + ggtitle("client status visualzation 2.2") +
@@ -90,7 +108,7 @@ strong <- filter(working,client_status=="Strong_Inhibited" | client_status=="Str
 
 ggplot(strong, aes(x=position, y=conservation)) +
   geom_point(alpha=.4)  + ggtitle("client status visualzation 2.2") +
-  facet_grid(client_status~.) 
+  facet_wrap(client_status~.) 
 
 
 ggplot(strong, aes(x=conservation, fill=client_status)) + 
@@ -118,7 +136,7 @@ strongsamps <- as.data.frame(rbind(
 p <- ggplot(strongsamps, aes(x=conservation, fill=V8)) + 
   geom_histogram() +
   facet_grid(V8~.) + theme(legend.position = "none")
-
+p
 
 
 

@@ -26,10 +26,10 @@ library(dplyr)
 VNr <- read.csv("/Users/arielleaiken/github/src4/src/utils/residuals.csv")
 
 #EA's conservation scores
-EAc <- read.csv("/Users/arielleaiken/github/src4/src/arielle/EAconservation.csv")
+EAc <- read.csv("/Users/arielleaiken/github/src4/src/arielle/data/EAconservation.csv")
 
 #my data frame (containing my residual scores)
-AAdf <- read.csv("/Users/arielleaiken/github/src4/src/arielle/R_working_master_20200415.csv")
+AAdf <- read.csv("/Users/arielleaiken/github/src4/src/arielle/data/R_working_master_20200415.csv")
 
 ############################################################################
 ############################################################################
