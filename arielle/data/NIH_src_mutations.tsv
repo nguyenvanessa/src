@@ -1,0 +1,101 @@
+DNA Change	Type	Consequences	# Affected Cases in SRC	# Affected Cases Across the GDC	Impact
+chr20:g.37405231delTT	Deletion	3 Prime UTR SRC	10 / 557,1.80%	10 / 10,202	VEP: MODIFIER
+chr20:g.37405231delTTT	Deletion	3 Prime UTR SRC	7 / 557,1.26%	7 / 10,202	VEP: MODIFIER
+chr20:g.37402438G>C	Substitution	Missense SRC A374P	3 / 557,0.54%	3 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1
+chr20:g.37386148C>T	Substitution	Synonymous SRC G108G	2 / 557,0.36%	2 / 10,202	VEP: LOW
+chr20:g.37384229G>A	Substitution	Missense SRC G26S	2 / 557,0.36%	2 / 10,202	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.44, PolyPhen: benign - score 0.012
+chr20:g.37393967G>A	Substitution	Synonymous SRC A141A	2 / 557,0.36%	2 / 10,202	VEP: LOW
+chr20:g.37401627G>A	Substitution	Synonymous SRC G355G	2 / 557,0.36%	2 / 10,202	VEP: LOW
+chr20:g.37384200G>A	Substitution	Missense SRC R16H	2 / 557,0.36%	2 / 10,202	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.22, PolyPhen: benign - score 0.004
+chr20:g.37403761delC	Deletion	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37404881T>C	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37403257C>A	Substitution	Missense SRC L497I	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 1, PolyPhen: probably_damaging - score 0.997
+chr20:g.37403306A>G	Substitution	Missense SRC E513G	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: possibly_damaging - score 0.503
+chr20:g.37402495G>T	Substitution	Missense SRC A393S	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.05, PolyPhen: probably_damaging - score 0.997
+chr20:g.37393905T>C	Substitution	Missense SRC W121R	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.932
+chr20:g.37386175G>A	Substitution	Splice Donor SRC X117_splice	1 / 557,0.18%	1 / 10,202	VEP: HIGH
+chr20:g.37384257C>T	Substitution	Missense SRC S35L	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.12, PolyPhen: benign - score 0.154
+chr20:g.37402489C>T	Substitution	Missense SRC R391C	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1
+chr20:g.37397781C>A	Substitution	Synonymous SRC A262A	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37397808G>A	Substitution	Synonymous SRC R271R	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37403328G>A	Substitution	Synonymous SRC E520E	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37402845C>G	Substitution	Missense SRC T456S	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.04, PolyPhen: benign - score 0.366
+chr20:g.37393979C>T	Substitution	Synonymous SRC S145S	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37405306G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37403253C>T	Substitution	Synonymous SRC H495H	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37400221T>C	Substitution	Synonymous SRC H322H	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37403644G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37403621G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37402522G>T	Substitution	Missense SRC V402L	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.09, PolyPhen: benign - score 0.123
+chr20:g.37397807G>A	Substitution	Missense SRC R271Q	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.53, PolyPhen: benign - score 0.39
+chr20:g.37397801C>T	Substitution	Missense SRC S269L	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.996
+chr20:g.37384249C>T	Substitution	Synonymous SRC F32F	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37384213C>T	Substitution	Synonymous SRC P20P	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37403339C>T	Substitution	Missense SRC T524M	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: possibly_damaging - score 0.726
+chr20:g.37400237T>C	Substitution	Synonymous SRC L328L	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37400103delCCTCCTCA…	Deletion	Splice Acceptor SRC X287_splice	1 / 557,0.18%	1 / 10,202	VEP: HIGH
+chr20:g.37384147C>T	Substitution	Splice Region SRC	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37396289G>A	Substitution	Synonymous SRC Q227Q	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37400248G>A	Substitution	Synonymous SRC V331V	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37404868G>T	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37404250G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37402499A>G	Substitution	Missense SRC N394S	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.02, PolyPhen: probably_damaging - score 0.995
+chr20:g.37403800A>G	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37404600G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37384164A>G	Substitution	Missense SRC N4S	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.97, PolyPhen: benign - score 0
+chr20:g.37403349G>A	Substitution	Synonymous SRC E527E	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37402474G>A	Substitution	Missense SRC V386I	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 1, PolyPhen: probably_damaging - score 0.995
+chr20:g.37403551G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37404761G>C	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37400217G>A	Substitution	Missense SRC R321K	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.09, PolyPhen: benign - score 0.002
+chr20:g.37397731A>T	Substitution	Missense SRC T246S	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.69, PolyPhen: benign - score 0
+chr20:g.37393955C>T	Substitution	Synonymous SRC S137S	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37384160delAGCAACAA…	Deletion	Inframe Deletion SRC N4_S6del	1 / 557,0.18%	1 / 10,202	VEP: MODERATE
+chr20:g.37404059G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37393971T>C	Substitution	Missense SRC S143P	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.05, PolyPhen: probably_damaging - score 0.988
+chr20:g.37400279G>A	Substitution	Missense SRC E342K	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: benign - score 0.139
+chr20:g.37404072T>C	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37384250C>T	Substitution	Missense SRC P33S	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.12, PolyPhen: benign - score 0.001
+chr20:g.37396190C>T	Substitution	Synonymous SRC F194F	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37403778G>T	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37397792C>A	Substitution	Missense SRC P266H	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.999
+chr20:g.37402815C>A	Substitution	Stop Gained SRC S446*	1 / 557,0.18%	1 / 10,202	VEP: HIGH
+chr20:g.37405315G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37400273G>C	Substitution	Missense SRC V340L	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: benign - score 0.443
+chr20:g.37403766G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37394265G>A	Substitution	Missense SRC E181K	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: probably_damaging - score 0.994
+chr20:g.37402828C>A	Substitution	Synonymous SRC S450S	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37393941G>T	Substitution	Missense SRC G133C	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1
+chr20:g.37401602G>A	Substitution	Missense SRC G347E	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: probably_damaging - score 1
+chr20:g.37384233C>G	Substitution	Missense SRC A27G	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.99, PolyPhen: benign - score 0
+chr20:g.37386125A>G	Substitution	Missense SRC T101A	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.09, PolyPhen: benign - score 0.036
+chr20:g.37403307G>A	Substitution	Synonymous SRC E513E	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37396266C>A	Substitution	Missense SRC R220S	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.02, PolyPhen: probably_damaging - score 0.995
+chr20:g.37402838C>G	Substitution	Missense SRC L454V	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.02, PolyPhen: possibly_damaging - score 0.676
+chr20:g.37386117G>T	Substitution	Missense SRC R98M	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.08, PolyPhen: probably_damaging - score 0.935
+chr20:g.37404987C>T	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37386111A>T	Substitution	Missense SRC E96V	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: probably_damaging - score 0.996
+chr20:g.37405363G>T	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37400191G>T	Substitution	Missense SRC Q312H	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.02, PolyPhen: probably_damaging - score 0.994
+chr20:g.37396219A>T	Substitution	Missense SRC H204L	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.999
+chr20:g.37403576C>T	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37401613G>A	Substitution	Missense SRC D351N	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: benign - score 0.022
+chr20:g.37405350delG	Deletion	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37394208delGAGCGGT	Deletion	Frameshift SRC E162Yfs*39	1 / 557,0.18%	1 / 10,202	VEP: HIGH
+chr20:g.37403301C>T	Substitution	Synonymous SRC T511T	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37403265C>A	Substitution	Stop Gained SRC C499*	1 / 557,0.18%	1 / 10,202	VEP: HIGH
+chr20:g.37404414G>C	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37397754G>A	Substitution	Synonymous SRC P253P	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37402521G>C	Substitution	Synonymous SRC L401L	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37396259C>T	Substitution	Synonymous SRC I217I	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37396199C>A	Substitution	Synonymous SRC A197A	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37397701C>A	Substitution	Missense SRC H236N	1 / 557,0.18%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.58, PolyPhen: probably_damaging - score 0.954
+chr20:g.37402455C>T	Substitution	Synonymous SRC Y379Y	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37405394G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37403550G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37403517C>G	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37393941delG	Deletion	Frameshift SRC G133Afs*70	1 / 557,0.18%	1 / 10,202	VEP: HIGH
+chr20:g.37394252C>T	Substitution	Synonymous SRC L176L	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37404015G>T	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
+chr20:g.37402756A>G	Substitution	Synonymous SRC K426K	1 / 557,0.18%	1 / 10,202	VEP: LOW
+chr20:g.37403575G>A	Substitution	3 Prime UTR SRC	1 / 557,0.18%	1 / 10,202	VEP: MODIFIER
